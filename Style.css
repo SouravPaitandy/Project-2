@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.upper_box {
+    display: flex;
+    justify-content: center;
+}
+
+.lower_box {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 2rem;
+}
+
+.red {
+    background-color: rgb(255, 0, 106);
+}
+
+.green {
+    background-color: rgb(9, 144, 9);
+}
+
+.yellow {
+    background-color: rgb(255, 208, 0);
+}
+
+.blue {
+    background-color: rgb(37, 112, 255) ;
+}
+
+.flash {
+    background-color: white;
+}
+
+.bodyFlash{
+   background-color: red;
+}
